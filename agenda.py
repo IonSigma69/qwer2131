@@ -101,4 +101,4 @@ while True:
     else:
         print('Comanda nu este in lista!')
 connection.close()
-print('La revedere!')
+
